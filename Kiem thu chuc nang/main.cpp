@@ -9,8 +9,14 @@ const int MAX_5 = 283400;
 
 int main()
 {
+    //testcases ung voi bang quyet dinh
+    int testcases1[] = {-2, 10, 60, 150, 210, 320, 456};
+    //testcase ung voi lop tuong duong (cach 1)
+    int testcases2[] = {-85, 44, 86, 162, 234, 345, 999};
+    //testcase ung voi bang tuong duong (cach 2)
+    int testcases3[] = {-5, 162};
     long price =0;
-    int n;
+    long n;
     cin>>n;
     if (n < 0) {
         cout <<"input ko hop le"<<endl;

@@ -1,0 +1,8 @@
+-Testcase với bảng quyết định:
+ 	input : {-2, 10, 60, 150, 210, 320, 456}.
+
+-Testcase với lớp tương đương (cách chia 1):
+	input : {-85, 44, 86, 162, 234, 345, 999}
+
+-Testcase với lớp tương đương (Cách chia 2):
+	input : {-5, 162}
