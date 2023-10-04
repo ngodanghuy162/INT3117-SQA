@@ -32,10 +32,8 @@ int tinhtien(int n) {
             default:
                 price = MAX_1 + MAX_2 + MAX_3 + MAX_4 + MAX_5 + (n - 400) * 2927;
         }
-        return price;
     }
-
-    return 0;
+    return price;
 }
 
 int main()
